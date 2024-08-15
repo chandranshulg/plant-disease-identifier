@@ -12,10 +12,14 @@ This is a Flask-based web application that allows users to upload images of plan
 
 ## requirments
 
-   Flask==2.3.3
+Flask==2.3.3
+
 tensorflow==2.13.0
+
 numpy==1.25.1
+
 Pillow==10.0.0
+
 werkzeug==2.3.3
 
 ### Steps
