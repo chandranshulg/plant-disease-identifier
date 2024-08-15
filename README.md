@@ -21,7 +21,7 @@ This is a Flask-based web application that allows users to upload images of plan
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/plant-disease-identifier.git
+    git clone https://github.com/chandranshulg/plant-disease-identifier.git
     ```
    
 2. **Navigate to the project directory:**
